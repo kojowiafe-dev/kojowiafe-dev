@@ -1,4 +1,4 @@
-- <h1 align="left">👽 Hey there, I'm Kojo</h1>
+- <h1 align="left">Hey there, I'm Kojo</h1>
 
 🎓 **Computer Science and Mathematics** at the **University of Ghana**  
 🚀 Currently exploring **Full-Stack Development**, **EDA** **LLMs**  
