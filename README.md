@@ -40,7 +40,7 @@
 
 <p align="center">
 <!--   # 📊 Stats: -->
-![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&show_icon=treu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icon=treu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kojowiafe-dev&theme=github_dark" height="180" />
