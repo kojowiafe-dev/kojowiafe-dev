@@ -39,7 +39,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<!--   # 📊 Stats: -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kojowiafe-dev&theme=github_dark" height="180" />
