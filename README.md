@@ -27,6 +27,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=react)
+![Jira](https://img.shields.io/badge/Jira-Project-blue?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ### 🗃️ Databases & Tools
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
