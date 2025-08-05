@@ -55,6 +55,7 @@
 
 ## 📈 GitHub Stats
 ![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=transparent)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kojowiafe-dev)
 
 <p align="center">
 <!--   ![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=radical) -->
