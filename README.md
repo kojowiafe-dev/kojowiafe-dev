@@ -30,9 +30,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=for-the-badge&logo=react)
-<!---
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
---->
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -58,9 +56,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--   ![](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=kojowiafe-dev&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kojowiafe-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kojowiafe-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kojowiafe-dev&theme=github_dark" height="180" />
