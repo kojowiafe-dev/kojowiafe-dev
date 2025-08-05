@@ -55,7 +55,6 @@
 
 ## 📈 GitHub Stats
 ![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojowiafe-dev&layout=pie)](https://github.com/kojowiafe-dev/github-readme-stats)
 
 <p align="center">
 <!--   ![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=radical) -->
