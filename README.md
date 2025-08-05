@@ -54,13 +54,13 @@
 ---
 
 ## 📈 GitHub Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev)](https://github.com/kojowiafe-dev/github-readme-stats)
 <p align="center">
 <!--   ![](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=kojowiafe-dev&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kojowiafe-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-  ![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=transparent)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev)](https://github.com/kojowiafe-dev/github-readme-stats)
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kojowiafe-dev&theme=github_dark" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kojowiafe-dev&theme=github_dark" height="180" />
