@@ -55,7 +55,7 @@
 
 ## 📈 GitHub Stats
 ![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=transparent)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kojowiafe-dev&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kojowiafe-dev&theme=tokyonight" height="150" />
