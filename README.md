@@ -55,10 +55,10 @@
 
 ## 📈 GitHub Stats
 [![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev)](https://github.com/kojowiafe-dev/github-readme-stats)
-![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kojowiafe-dev)](https://git.io/streak-stats)
 
 <p align="center">
+<!--   ![Kojowiafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojowiafe-dev&show_icons=true&theme=transparent) -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kojowiafe-dev&theme=tokyonight" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kojowiafe-dev&theme=tokyonight" height="180" />
 </p>
