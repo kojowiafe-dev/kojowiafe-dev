@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kojo 👋</h1>
+<h1 align="center">I'm Kojo 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Data Enthusiast | LLM Explorer</b><br/>
