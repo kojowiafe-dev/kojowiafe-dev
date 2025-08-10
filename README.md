@@ -45,6 +45,9 @@
 ### **Frontend Hosting**
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
+### **Backend Hosting**
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)
+
 ### 📊 Data Science & Visualization
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
