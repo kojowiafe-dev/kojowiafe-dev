@@ -42,6 +42,9 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
+### **Frontend Hosting**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
 ### 📊 Data Science & Visualization
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
