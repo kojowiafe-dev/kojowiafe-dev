@@ -42,15 +42,14 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
-### **Frontend Hosting**
+### **Frontend and Backend Hosting**
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
-
-### **Backend Hosting**
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)
 
 ### **Authentication**
 ![Google OAuth](https://img.shields.io/badge/-Google%20OAuth-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![GitHub OAuth](https://img.shields.io/badge/-GitHub%20OAuth-181717?logo=github&logoColor=white&style=for-the-badge)
+![JWT Auth](https://img.shields.io/badge/-JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 
 ### 📊 Data Science & Visualization
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge)
