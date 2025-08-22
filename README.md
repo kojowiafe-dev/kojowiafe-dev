@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kojo 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Data Enthusiast | LLM Explorer</b><br/>
+  <b>Full-Stack Developer | Data Enthusiast |  Product Engineer</b><br/>
   Computer Science & Mathematics @ University of Ghana
 </p>
 
