@@ -15,8 +15,8 @@
 - ⚡ Fun fact: I once calculated `123456789 × 123456789` correctly at home on my second day of learning multiplication 😅
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=kojowiafe-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kojowiafe-dev&label=Profile%20views&color=cd1025&style=flat" alt="kojowiafe-dev" /> </p>
+[![](https://visitcount.itsvg.in/api?id=kojowiafe-dev&icon=0&color=cd1025)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
