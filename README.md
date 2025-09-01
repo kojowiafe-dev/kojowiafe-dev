@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate about building scalable web apps, intelligent systems, and exploring LLM capabilities
+- 🎯 Passionate about building scalable web apps, intelligent systems, and exploring LLM and AI capabilities
 - 🔭 Currently diving deeper into **Next.js**, **Exploratory Data Analysis (EDA)**, and **Artificial Intelligence**
 - 🤝 Open to collaborations on **AI-powered software**, **data-driven solutions**, or any impactful tech project
 - ⚡ Fun fact: I once calculated `123456789 × 123456789` correctly at home on my second day of learning multiplication 😅
