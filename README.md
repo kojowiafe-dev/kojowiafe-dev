@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer | Data Enthusiast</b><br/>
-  Computer Science & Mathematics @ University of Ghana
+  CS & Math @ UG
 </p>
 
 ---
