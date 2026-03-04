@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer | Data Enthusiast</b><br/>
-  Computer Science & Mathematics @ UG
+  CS & Math @ UG
 </p>
 
 ---
