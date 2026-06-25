@@ -1,7 +1,7 @@
 <h1 align="center">I'm Kojo</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Data Enthusiast</b><br/>
+  <b>Software Engineer</b><br/>
   CS & Math @ UG
 </p>
 
